@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "vscode-monokai-minimal"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Monokai Minimal Syntax Theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Colors
+| Name         | Code      | Sample
+|--------------|-----------|------------------------------------------------------------
+| Blue         | `#62d8f1` |![#62d8f1](https://placehold.it/100x40/62d8f1/000000?text=+)
+| Green Light  | `#a4e400` |![#a4e400](https://placehold.it/100x40/a4e400/000000?text=+)
+| Magenta      | `#f92672` |![#f92672](https://placehold.it/100x40/f92672/000000?text=+)
+| Orange Dark  | `#ff9700` |![#ff9700](https://placehold.it/100x40/ff9700/000000?text=+)
+| Orange Light | `#ffb957` |![#ffb957](https://placehold.it/100x40/ffb957/000000?text=+)
+| Purple       | `#af87ff` |![#af87ff](https://placehold.it/100x40/af87ff/000000?text=+)
+| Yellow       | `#ffff87` |![#ffff87](https://placehold.it/100x40/ffff87/111111?text=+)

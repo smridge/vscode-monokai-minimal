@@ -1,8 +1,14 @@
 {
   "name": "vscode-monokai-minimal",
   "displayName": "Monokai Minimal",
-  "description": "Monokai Syntax Theme for Visual Studio Code",
+  "description": "Monokai Minimal Syntax Theme for Visual Studio Code",
+  "publisher": "SarahRidge",
+  "icon": "images/icon.png",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smridge/vscode-monokai-minimal"
+  },
   "engines": {
     "vscode": "^1.42.0"
   },
@@ -12,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai",
+        "label": "Monokai Minimal",
         "uiTheme": "vs-dark",
         "path": "./themes/Monokai-color-theme.json"
       }
