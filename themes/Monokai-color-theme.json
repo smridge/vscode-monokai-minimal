@@ -290,6 +290,13 @@
         "foreground": "#62d8f1"
       }
     },
+    {
+      "scope": "variable.other.readwrite.instance",
+      "settings": {
+        "foreground": "#ffb140"
+      }
+    },
+
 
 
 // Punctuation
