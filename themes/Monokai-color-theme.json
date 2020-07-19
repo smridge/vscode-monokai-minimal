@@ -233,7 +233,7 @@
     {
       "scope": "support.function",
       "settings": {
-        "foreground": "#a4e400",
+        "foreground": "#62f1a2",
         "fontStyle": "italic"
       }
     },

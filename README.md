@@ -4,6 +4,7 @@
 | Name          | Code      | Sample
 |---------------|-----------|------------------------------------------------------------
 | Blue          | `#62d8f1` |![#62d8f1](https://placehold.it/100x40/62d8f1/000000?text=+)
+| Cyan          | `#62f1a2` |![#62f1a2](https://placehold.it/100x40/62f1a2/000000?text=+)
 | Green         | `#a4e400` |![#a4e400](https://placehold.it/100x40/a4e400/000000?text=+)
 | Magenta       | `#f92672` |![#f92672](https://placehold.it/100x40/f92672/000000?text=+)
 | Orange Dark   | `#ff9700` |![#ff9700](https://placehold.it/100x40/ff9700/000000?text=+)
