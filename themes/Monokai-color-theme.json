@@ -252,7 +252,7 @@
       "scope": "support.constant",
       "settings": {
         "foreground": "#af87ff",
-        "fontStyle": "bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -261,8 +261,8 @@
         "support.other"
       ],
       "settings": {
-        "foreground": "#ffb957",
-        "fontStyle": "bold"
+        "foreground": "#62f1a2",
+        "fontStyle": "italic"
       }
     },
 
