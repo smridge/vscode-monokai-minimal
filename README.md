@@ -1,9 +1,14 @@
 # Monokai Minimal Syntax Theme for Visual Studio Code
+[![Published Version to VS Code](https://img.shields.io/visual-studio-marketplace/v/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+[![VS Code Downloads](https://img.shields.io/visual-studio-marketplace/d/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+[![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+[![GitHub License](https://img.shields.io/github/license/smridge/vscode-monokai-minimal.svg)](https://github.com/smridge/vscode-monokai-minimal/blob/master/LICENSE)
+
 ## Install
 Run: `code --install-extension SarahRidge.vscode-monokai-minimal`
 - Alternatively, extension can be installed via [marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal).
 - In VS Code, set theme:
-  - Press <kbd>⌘</kbd> K <kbd>⌘</kbd> T
+  - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
   - Select **Monokai Minimal**
 
 ## Colors
