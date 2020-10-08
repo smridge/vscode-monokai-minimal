@@ -8,6 +8,9 @@
 
     "breadcrumb.foreground": "#fd971f",
 
+    "diffEditor.insertedTextBackground": "#34d05822",
+    "diffEditor.removedTextBackground": "#d73a4922",
+
     "foreground": "#a17cff",
 
     "editor.background": "#1a1a1a",
