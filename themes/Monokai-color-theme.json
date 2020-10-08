@@ -11,6 +11,8 @@
     "diffEditor.insertedTextBackground": "#34d05822",
     "diffEditor.removedTextBackground": "#d73a4922",
 
+    "editorCursor.foreground": "#f92672",
+
     "foreground": "#a17cff",
 
     "editor.background": "#1a1a1a",
@@ -63,6 +65,8 @@
 
     "terminal.background": "#1a1a1a",
     "terminal.foreground": "#a17cff",
+    "terminalCursor.background": "#ff9700",
+    "terminalCursor.foreground": "#ff9700",
 
     "titleBar.activeBackground": "#121212"
   },
