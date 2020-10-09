@@ -84,7 +84,6 @@
     },
 
 
-// Constant
     {
       "scope": "constant",
       "settings": {
@@ -93,7 +92,6 @@
     },
 
 
-// Entity
     {
       "scope": "entity",
       "settings": {
@@ -132,7 +130,6 @@
     },
 
 
-// Invalid
     {
       "scope": "invalid",
       "settings": {
@@ -142,7 +139,6 @@
     },
 
 
-// Keyword
     {
       "scope": "keyword",
       "settings": {
@@ -151,7 +147,6 @@
     },
 
 
-// Markup
     {
       "scope": "markup",
       "settings": {
@@ -194,7 +189,6 @@
     },
 
 
-// Meta
     {
       "scope": "meta",
       "settings": {
@@ -236,7 +230,6 @@
     },
 
 
-// Storage
     {
       "scope": "storage",
       "settings": {
@@ -245,7 +238,6 @@
     },
 
 
-// String
     {
       "scope": "string",
       "settings": {
@@ -254,7 +246,6 @@
     },
 
 
-// Support
     {
       "scope": "support.function",
       "settings": {
@@ -292,7 +283,6 @@
     },
 
 
-// Variable
     {
       "scope": "variable",
       "settings": {
@@ -323,8 +313,6 @@
     },
 
 
-
-// Punctuation
     {
       "scope": "punctuation",
       "settings": {
