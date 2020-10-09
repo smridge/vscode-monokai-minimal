@@ -23,12 +23,12 @@
 
     "editorGroupHeader.tabsBackground": "#121212",
 
-    "gitDecoration.addedResourceForeground": "#28a745",
-    "gitDecoration.modifiedResourceForeground": "#005cc5",
-    "gitDecoration.deletedResourceForeground": "#d73a49",
-    "gitDecoration.untrackedResourceForeground": "#28a745",
+    "gitDecoration.addedResourceForeground": "#a4e400",
+    "gitDecoration.modifiedResourceForeground": "#62d8f1",
+    "gitDecoration.deletedResourceForeground": "#f92672",
+    "gitDecoration.untrackedResourceForeground": "#a4e400",
     "gitDecoration.ignoredResourceForeground": "#959da5",
-    "gitDecoration.conflictingResourceForeground": "#e36209",
+    "gitDecoration.conflictingResourceForeground": "#ff9700",
     "gitDecoration.submoduleResourceForeground": "#959da5",
 
     "input.background": "#1a1a1a",

@@ -5,11 +5,11 @@
 [![GitHub License](https://img.shields.io/github/license/smridge/vscode-monokai-minimal.svg)](https://github.com/smridge/vscode-monokai-minimal/blob/master/LICENSE)
 
 ## Install
-Run: `code --install-extension SarahRidge.vscode-monokai-minimal`
-- Alternatively, extension can be installed via [marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal).
-- In VS Code, set theme:
-  - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
-  - Select **Monokai Minimal**
+1. Run: `code --install-extension SarahRidge.vscode-monokai-minimal`
+    - Alternatively, extension can be installed via  [marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal).
+2. In VS Code, set theme:
+    - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
+    - Select **Monokai Minimal**
 
 ## Colors
 | Name          | Code      | Sample

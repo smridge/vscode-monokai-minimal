@@ -5,6 +5,10 @@
   "publisher": "SarahRidge",
   "icon": "images/icon.png",
   "version": "0.0.3",
+  "galleryBanner": {
+    "color": "#121212",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/smridge/vscode-monokai-minimal"
@@ -26,7 +30,7 @@
       {
         "label": "Monokai Minimal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai-color-theme.json"
+        "path": "./themes/monokai-minimal-dark.json"
       }
     ]
   }
