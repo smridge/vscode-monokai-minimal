@@ -1,6 +1,8 @@
 # Change Log
 ### madam (Unreleased)
-- WIP
+- Updated punction section color
+- Addded breadcrumb focus color
+- Use JS to generate theme
 
 ## 0.0.4 (2020-10-09)
 - Added Git Decoration Colors

@@ -31,8 +31,12 @@
       {
         "label": "Monokai Minimal",
         "uiTheme": "vs-dark",
-        "path": "./themes/monokai-minimal-dark.json"
+        "path": "./themes/dark.json"
       }
     ]
+  },
+  "scripts": {
+    "start": "nodemon --watch src src/index.js",
+    "build": "node src/index.js"
   }
 }
