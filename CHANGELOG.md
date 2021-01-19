@@ -1,7 +1,11 @@
 # Change Log
 ### madam (Unreleased)
+- WIP
+
+## 0.0.5 (2021-01-18)
 - Updated punction section color
-- Addded breadcrumb focus color
+- Added breadcrumb focus color
+- Added diff diagonal fill color
 - Use JS to generate theme
 
 ## 0.0.4 (2020-10-09)
