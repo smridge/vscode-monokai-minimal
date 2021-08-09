@@ -14,17 +14,17 @@
 ## Colors
 | Name          | Code      | Sample
 |---------------|-----------|------------------------------------------------------------
-| Black Dark    | `#121212` |![#121212](https://placehold.it/100x40/121212/000000?text=+)
-| Black Medium  | `#1a1a1a` |![#1a1a1a](https://placehold.it/100x40/1a1a1a/000000?text=+)
-| Blue          | `#62d8f1` |![#62d8f1](https://placehold.it/100x40/62d8f1/000000?text=+)
-| Cyan          | `#62f1a2` |![#62f1a2](https://placehold.it/100x40/62f1a2/000000?text=+)
-| Green         | `#a4e400` |![#a4e400](https://placehold.it/100x40/a4e400/000000?text=+)
-| Magenta       | `#f92672` |![#f92672](https://placehold.it/100x40/f92672/000000?text=+)
-| Orange Dark   | `#ff9700` |![#ff9700](https://placehold.it/100x40/ff9700/000000?text=+)
-| Orange Medium | `#ffb140` |![#ffb140](https://placehold.it/100x40/ffb140/000000?text=+)
-| Orange Light  | `#ffb957` |![#ffb957](https://placehold.it/100x40/ffb957/000000?text=+)
-| Purple        | `#af87ff` |![#af87ff](https://placehold.it/100x40/af87ff/000000?text=+)
-| Yellow        | `#ffff87` |![#ffff87](https://placehold.it/100x40/ffff87/111111?text=+)
+| Black Dark    | `#121212` |![#121212](https://via.placeholder.com/100x40/121212/000000?text=+)
+| Black Medium  | `#1a1a1a` |![#1a1a1a](https://via.placeholder.com/100x40/1a1a1a/000000?text=+)
+| Blue          | `#62d8f1` |![#62d8f1](https://via.placeholder.com/100x40/62d8f1/000000?text=+)
+| Cyan          | `#62f1a2` |![#62f1a2](https://via.placeholder.com/100x40/62f1a2/000000?text=+)
+| Green         | `#a4e400` |![#a4e400](https://via.placeholder.com/100x40/a4e400/000000?text=+)
+| Magenta       | `#f92672` |![#f92672](https://via.placeholder.com/100x40/f92672/000000?text=+)
+| Orange Dark   | `#ff9700` |![#ff9700](https://via.placeholder.com/100x40/ff9700/000000?text=+)
+| Orange Medium | `#ffb140` |![#ffb140](https://via.placeholder.com/100x40/ffb140/000000?text=+)
+| Orange Light  | `#ffb957` |![#ffb957](https://via.placeholder.com/100x40/ffb957/000000?text=+)
+| Purple        | `#af87ff` |![#af87ff](https://via.placeholder.com/100x40/af87ff/000000?text=+)
+| Yellow        | `#ffff87` |![#ffff87](https://via.placeholder.com/100x40/ffff87/111111?text=+)
 
 ## Contribute
 - `git clone git@github.com:smridge/vscode-monokai-minimal.git`
