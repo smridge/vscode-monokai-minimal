@@ -11,6 +11,11 @@
     - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
     - Select **Monokai Minimal**
 
+## Examples
+| `.rb` | `.js` |
+| ----- | ----- |
+| <img src="https://raw.githubusercontent.com/smridge/vscode-monokai-minimal/madam/images/ruby.png"> | <img src="https://raw.githubusercontent.com/smridge/vscode-monokai-minimal/madam/images/react.png"> |
+
 ## Colors
 | Name          | Code      | Sample
 |---------------|-----------|------------------------------------------------------------
