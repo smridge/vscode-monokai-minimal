@@ -1,6 +1,8 @@
-# Change Log
-### madam (Unreleased)
-- WIP
+# CHANGELOG
+## madam (Unreleased)
+- Removed unnecessary packaged files
+- Updated [README](/README.md)
+- Updated [LICENSE](/LICENSE)
 
 ## 0.0.5 (2021-01-18)
 - Updated punction section color
