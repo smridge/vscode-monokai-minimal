@@ -19,22 +19,22 @@
 ## Colors
 | Name          | Code      | Sample
 |---------------|-----------|------------------------------------------------------------
-| Black Dark    | `#121212` |![#121212](https://via.placeholder.com/100X40/121212/121212)
-| Black Medium  | `#1a1a1a` |![#1a1a1a](https://via.placeholder.com/100x40/1a1a1a/1a1a1a)
-| Blue          | `#62d8f1` |![#62d8f1](https://via.placeholder.com/100x40/62d8f1/62d8f1)
-| Cyan          | `#62f1a2` |![#62f1a2](https://via.placeholder.com/100x40/62f1a2/62f1a2)
-| Green         | `#a4e400` |![#a4e400](https://via.placeholder.com/100x40/a4e400/a4e400)
-| Gray          | `#959da5` |![#959da5](https://via.placeholder.com/100x40/959da5/959da5)
-| Gray Blue     | `#424d66` |![#424d66](https://via.placeholder.com/100x40/424d66/424d66)
-| Magenta       | `#f92672` |![#f92672](https://via.placeholder.com/100x40/f92672/f92672)
-| Orange Dark   | `#ff9700` |![#ff9700](https://via.placeholder.com/100x40/ff9700/ff9700)
-| Orange Medium | `#ffb140` |![#ffb140](https://via.placeholder.com/100x40/ffb140/ffb140)
-| Orange Light  | `#ffb957` |![#ffb957](https://via.placeholder.com/100x40/ffb957/ffb957)
-| Purple        | `#af87ff` |![#af87ff](https://via.placeholder.com/100x40/af87ff/af87ff)
-| White         | `#ebebe4` |![#ebebe4](https://via.placeholder.com/100x40/ebebe4/ebebe4)
-| White Light   | `#b3b3b3` |![#b3b3b3](https://via.placeholder.com/100x40/b3b3b3/b3b3b3)
-| Yellow        | `#ffff87` |![#ffff87](https://via.placeholder.com/100x40/ffff87/ffff87)
-| Yellow Dark   | `#ffe100` |![#ffe100](https://via.placeholder.com/100x40/ffe100/ffe100)
+| Black Dark    | `#121212` |![#121212](https://img.shields.io/badge/-121212?labelColor=121212)
+| Black Medium  | `#1a1a1a` |![#1a1a1a](https://img.shields.io/badge/-1a1a1a?labelColor=1a1a1a)
+| Blue          | `#62d8f1` |![#62d8f1](https://img.shields.io/badge/-62d8f1?labelColor=62d8f1)
+| Cyan          | `#62f1a2` |![#62f1a2](https://img.shields.io/badge/-62f1a2?labelColor=62f1a2)
+| Green         | `#a4e400` |![#a4e400](https://img.shields.io/badge/-a4e400?labelColor=a4e400)
+| Gray          | `#959da5` |![#959da5](https://img.shields.io/badge/-959da5?labelColor=959da5)
+| Gray Blue     | `#424d66` |![#424d66](https://img.shields.io/badge/-424d66?labelColor=424d66)
+| Magenta       | `#f92672` |![#f92672](https://img.shields.io/badge/-f92672?labelColor=f92672)
+| Orange Dark   | `#ff9700` |![#ff9700](https://img.shields.io/badge/-ff9700?labelColor=ff9700)
+| Orange Medium | `#ffb140` |![#ffb140](https://img.shields.io/badge/-ffb140?labelColor=ffb140)
+| Orange Light  | `#ffb957` |![#ffb957](https://img.shields.io/badge/-ffb957?labelColor=ffb957)
+| Purple        | `#af87ff` |![#af87ff](https://img.shields.io/badge/-af87ff?labelColor=af87ff)
+| White         | `#ebebe4` |![#ebebe4](https://img.shields.io/badge/-ebebe4?labelColor=ebebe4)
+| White Light   | `#b3b3b3` |![#b3b3b3](https://img.shields.io/badge/-b3b3b3?labelColor=b3b3b3)
+| Yellow        | `#ffff87` |![#ffff87](https://img.shields.io/badge/-ffff87?labelColor=ffff87)
+| Yellow Dark   | `#ffe100` |![#ffe100](https://img.shields.io/badge/-ffe100?labelColor=ffe100)
 
 ## Contribute
 - `git clone git@github.com:smridge/vscode-monokai-minimal.git`
