@@ -5,11 +5,11 @@
 [![GitHub License](https://img.shields.io/github/license/smridge/vscode-monokai-minimal.svg)](https://github.com/smridge/vscode-monokai-minimal/blob/master/LICENSE)
 
 ## Install
-1. Run: `code --install-extension SarahRidge.vscode-monokai-minimal`
-    - Alternatively, extension can be installed via  [marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal).
-2. In VS Code, set theme:
-    - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
-    - Select **Monokai Minimal**
+- Run: `code --install-extension SarahRidge.vscode-monokai-minimal`
+  - Alternatively, extension can be installed via  [marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal).
+- In VS Code, set theme:
+  - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
+  - Select **Monokai Minimal**
 
 ## Examples
 | `.rb` | `.js` |
@@ -38,6 +38,7 @@
 
 ## Contribute
 - `git clone git@github.com:smridge/vscode-monokai-minimal.git`
+- Run `yarn install`
 - Make changes to the `/src/theme.js` file.
     - **UI**: For changes to the "outer UI", like (status bar, file navigation etc.), see [Theme Color](https://code.visualstudio.com/api/references/theme-color).
     - **Syntax**: For changes to the "code highlighting", examine syntax scopes by invoking [Scope Inspector](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector) command from the Command Palette
