@@ -5,4 +5,5 @@
 .tool-versions
 .screenshot-sample.rb
 /node_modules
+src/
 /yarn.lock
