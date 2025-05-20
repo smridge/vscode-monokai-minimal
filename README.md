@@ -48,5 +48,5 @@
 
 ## Publish (internal)
 > Note: Publishing a new version of this theme is only meant for maintainers.
-- `vsce package`
-- `vsce publish`
+- `yarn run vs-package`
+- `yarn run vs-publish`

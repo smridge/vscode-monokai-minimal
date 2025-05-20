@@ -15,7 +15,7 @@
     "url": "https://github.com/smridge/vscode-monokai-minimal"
   },
   "engines": {
-    "vscode": "^1.42.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
@@ -35,8 +35,14 @@
       }
     ]
   },
+  "devDependencies": {
+    "nodemon": "^3.0.0",
+    "@vscode/vsce": "^3.0.0"
+  },
   "scripts": {
     "start": "nodemon --watch src src/index.js",
-    "build": "node src/index.js"
+    "build": "node src/index.js",
+    "vs-package": "./node_modules/@vscode/vsce/vsce package",
+    "vs-publish": "./node_modules/@vscode/vsce/vsce publish"
   }
 }

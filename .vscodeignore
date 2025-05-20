@@ -1,4 +1,8 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-/src/
+.nvmrc
+.tool-versions
+.screenshot-sample.rb
+/node_modules
+/yarn.lock
