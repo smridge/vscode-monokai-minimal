@@ -5,11 +5,17 @@
 [![GitHub License](https://img.shields.io/github/license/smridge/vscode-monokai-minimal.svg)](https://github.com/smridge/vscode-monokai-minimal/blob/master/LICENSE)
 
 ## Install
-- Run: `code --install-extension SarahRidge.vscode-monokai-minimal`
-  - Alternatively, extension can be installed via  [marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal).
-- In VS Code, set theme:
-  - Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
-  - Select **Monokai Minimal**
+This extension is available at the following extension marketplaces:
+- [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+- [Open VSX Registry](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
+
+Run one of the following commands depending on the editor you are using:
+- For `vscode`: `code --install-extension SarahRidge.vscode-monokai-minimal`
+- For `cursor`: `cursor --install-extension SarahRidge.vscode-monokai-minimal`
+
+In your editor, set the theme:
+- Press <kbd>command</kbd> <kbd>K</kbd> <kbd>T</kbd>
+- Select **Monokai Minimal**
 
 ## Examples
 | `.rb` | `.js` |
@@ -50,4 +56,5 @@
 ## Publish (internal)
 > Note: Publishing a new version of this theme is only meant for maintainers.
 - `yarn run vs-package`
-- `yarn run vs-publish`
+- Publish to VSCode Marketplace: `yarn run vs-publish`
+- Publish to Open VSX Registry: `npx ovsx publish <.vsix file> -p <OpenVSX PAT>`
