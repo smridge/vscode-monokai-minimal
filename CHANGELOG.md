@@ -1,5 +1,11 @@
 # CHANGELOG
 ## madam (Unreleased)
+-
+
+## 1.1.0 (2026-01-22)
+- Updated [LICENSE](/LICENSE)
+
+## 1.0.0 (2025-05-25)
 - Removed unnecessary packaged files
 - Updated [README](/README.md)
 - Updated [LICENSE](/LICENSE)
