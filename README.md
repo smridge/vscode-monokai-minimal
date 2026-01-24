@@ -1,7 +1,8 @@
 # Monokai Minimal Syntax Theme for Visual Studio Code
-[![Published Version to VS Code](https://img.shields.io/visual-studio-marketplace/v/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
-[![VS Code Downloads](https://img.shields.io/visual-studio-marketplace/d/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
-[![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+[![VSCode Marketplace Version](https://img.shields.io/vscode-marketplace/v/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+[![VSCode Downloads](https://img.shields.io/vscode-marketplace/d/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/sarahridge/vscode-monokai-minimal)](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/sarahridge/vscode-monokai-minimal)](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
 [![GitHub License](https://img.shields.io/github/license/smridge/vscode-monokai-minimal.svg)](https://github.com/smridge/vscode-monokai-minimal/blob/master/LICENSE)
 
 ## Install
