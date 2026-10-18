@@ -1,5 +1,7 @@
 # CHANGELOG
 ## `madam` (Unreleased)
+
+## 1.2.0 (2026-10-18)
 - Added support for `cursor`
 
 ## 1.1.0 (2026-01-22)
