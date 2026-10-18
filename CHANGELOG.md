@@ -1,6 +1,6 @@
 # CHANGELOG
-## madam (Unreleased)
--
+## `madam` (Unreleased)
+- Added support for `cursor`
 
 ## 1.1.0 (2026-01-22)
 - Updated [LICENSE](/LICENSE)

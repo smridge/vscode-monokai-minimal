@@ -1,4 +1,4 @@
-# Monokai Minimal Syntax Theme for Visual Studio Code and Cursor
+# Monokai Minimal Syntax Theme for `vscode` and `cursor`
 [![Open VSX Version](https://img.shields.io/open-vsx/v/sarahridge/vscode-monokai-minimal)](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/sarahridge/vscode-monokai-minimal)](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
 [![GitHub License](https://img.shields.io/badge/license-MIT-gray?color=green)](https://github.com/smridge/vscode-monokai-minimal/blob/madam/LICENSE)
