@@ -1,9 +1,7 @@
-# Monokai Minimal Syntax Theme for Visual Studio Code
-[![VSCode Marketplace Version](https://img.shields.io/vscode-marketplace/v/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
-[![VSCode Downloads](https://img.shields.io/vscode-marketplace/d/SarahRidge.vscode-monokai-minimal)](https://marketplace.visualstudio.com/items?itemName=SarahRidge.vscode-monokai-minimal)
+# Monokai Minimal Syntax Theme for Visual Studio Code and Cursor
 [![Open VSX Version](https://img.shields.io/open-vsx/v/sarahridge/vscode-monokai-minimal)](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
 [![Open VSX Downloads](https://img.shields.io/open-vsx/dt/sarahridge/vscode-monokai-minimal)](https://open-vsx.org/extension/SarahRidge/vscode-monokai-minimal)
-[![GitHub License](https://img.shields.io/github/license/smridge/vscode-monokai-minimal.svg)](https://github.com/smridge/vscode-monokai-minimal/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/badge/license-MIT-gray?color=green)](https://github.com/smridge/vscode-monokai-minimal/blob/madam/LICENSE)
 
 ## Install
 This extension is available at the following extension marketplaces:
